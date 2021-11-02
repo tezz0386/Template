@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shoptimizerdemo.commercegurus.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+shoptimizerdemo.commercegurus.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_29c4f23cabd98f03e468fb595e700683	832327ddac3bbe241ba246aa7d0e62be%7C%7C1635914832%7C%7C1635911232%7C%7C557122acbd57adc059adde5536c4039c
+shoptimizerdemo.commercegurus.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3e65184bb914e0539c74b6fa192e446f
+

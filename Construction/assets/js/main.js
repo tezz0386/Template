@@ -1,0 +1,148 @@
+$('.banner').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    autoplay:true,
+    autoplayTimeout:1800,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+})
+
+$('.equipment-slider').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:1000,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:4
+        }
+    }
+})
+$('.tyre-slider').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:1200,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:3
+        }
+    }
+})
+$('.brick-slider').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:1100,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:4
+        }
+    }
+})
+$('.client-slider').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    loop:true,
+    margin:10,
+    autoplay:false,
+    // autoplayTimeout:1000,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+})
+
+$('.partner-slider').owlCarousel({
+    loop:true,
+    margin:0,
+    nav:false,
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:1500,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:5
+        },
+        1000:{
+            items:8
+        }
+    }
+})
+
+$('.partner-slidermain').owlCarousel({
+    loop:true,
+    margin:0,
+    nav:false,
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout:1500,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:5
+        },
+        1000:{
+            items:5
+        }
+    }
+})

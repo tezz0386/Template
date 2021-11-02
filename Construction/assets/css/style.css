@@ -1,0 +1,710 @@
+
+section {
+    padding: 80px 0;
+}
+.expert-section {
+    background: #eec400;
+    padding: 60px 0;
+    margin: -24px 0 0 0;
+}
+.client-review .item img {
+    height: 80px;
+    width: 80px;
+    border-radius: 65%;
+}
+.primary-mainnav {
+    background: #00000094;
+}
+.primary-mainnav .nav-item a {
+    color: #fff !important;
+}
+
+.contact-section h1 {
+    margin: 0 0 0 106px;
+}
+.title-section p {
+    margin: 0 35px 0 0px !important;
+}
+.btn-topsearch {
+    color: #fff;
+}
+.dropdown-menu.show {
+    display: block;
+    background: #eec400;
+}
+.banner-content {
+    top: 39em;
+    left: 18em;
+    z-index: 999 !important;
+}
+.overlay:after {
+    background: #000000ad;
+    height: 100%;
+    width: 100%;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    z-index: 0000;
+}
+.about-company-construction p {
+    line-height: 2.8em;
+}
+
+#breadcrumb li {
+    font-size: 27px;
+    margin: 44px 0 0 0;
+    color: #fff;
+    list-style: none;
+    font-weight: 700;
+}
+h2.ac-title {
+    font-size: 19px;
+    margin: 14px 0 7px 0;
+}
+#breadcrumb {
+    background-repeat: no-repeat;
+    height: 28vh;
+    z-index: 000 !important;
+    background-size: cover;
+}
+.abt-topc {
+    box-shadow: 3px 2px 9px #d1b2b2;
+    margin: 0px 46px;
+    padding: 5px 14px;
+}
+.top-abt {
+    margin-top: 2em;
+}
+.location-address ul li a {
+    text-decoration: none;
+    color: #6b6b6b;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.location-address ul li i {
+    margin: 0 10px 0 0;
+}
+.message-from ul li {
+    font-weight: 600;
+}
+
+.message-from ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-bottom: 1em !important;
+}
+.location-address ul li {
+    margin: 18px 0;
+    font-size: 21px;
+    color: #6b6b6b;
+}
+.location-address ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.location-address {
+    background: #ffc107;
+    padding: 31px 31px;
+}
+.message-from ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.about-main .about-main-title {
+    font-size: 35px;
+    margin: 0 0 21px 0;
+    font-weight: 700;
+}
+.other-content p {
+    color: #fff;
+}
+.banner-content .banner-top-title {
+    color: #fff;
+    font-size: 64px;
+}
+.banner-content a {
+    background: #eec400;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+}
+.sliderbox-client .owl-nav {
+    position: absolute !important;
+    width: 100% !important;
+    display: block !important;
+        top: 30%;
+}
+.sliderbox-client .owl-nav button span {
+    color: #ffc107;
+}
+.sliderbox-client .owl-nav button {
+    font-size: 69px !important;
+}
+.sliderbox-client .owl-nav .owl-prev {
+    float: left;
+}
+.sliderbox-client .owl-nav .owl-next {
+    float: right;
+}
+.sliderbox-client .owl-nav:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.primary-mainnav ul li .dropdown-item:hover {
+    background: #253c55;
+}
+.main-header .owl-nav {
+    display: none;
+}
+.btn-expert {
+    padding: 18px 43px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.partner-slider img {
+    height: 100px;
+    width: 100px !important;
+    border-radius: 64%;
+}
+.address-contact-bottom a {
+    color: #000;
+    text-decoration: none;
+}
+.view-more {
+    margin: 30px 0 15px 0px;
+}
+.distributor-wrapper .btn {
+    margin: 30px 0 20px 0px;
+}
+.btn-expert i {
+    margin: 0 0 0 18px;
+}
+.title-section {
+    margin: 0 auto;
+    margin-bottom: 3em;
+    /*padding: 0 50px;*/
+}
+.section-title {
+    text-transform: uppercase;
+}
+.section-title span {
+    color: #eec400;
+}
+.service-info-wrapper {
+    border: 1px solid #eec400;
+}
+.service-info-wrapper .btn {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.service-info-wrapper {
+    border: 1px solid #eec400;
+    margin: 0 11px;
+    padding: 43px 14px;
+    display: inline-block;
+}
+.more-btn {
+    background: #eec400;
+    text-transform: uppercase;
+    padding: 14px 28px;
+    font-weight: 700;
+}
+.contact-section .mid-box {
+    margin: 0 auto;
+}
+.sl-info span {
+    margin: 0 0px 0 17px;
+}
+.sl-info {
+    padding: 10px 15px;
+}
+.sl-info h2 {
+    color: #404040;
+    font-weight: 100;
+    margin: 17px 0 5px 0px;
+}
+.sl-info p {
+    margin: 0px 0 15px 0px;
+}
+.btn-expert:hover {
+    border: 1px solid #6c757d;
+    background: transparent;
+}
+.banner-content a:hover {
+    border: 1px solid #eec400;
+    background: transparent;
+    color: #eec400 !important;
+}
+.contact-section .btn:hover {
+    border: 1px solid #eec400;
+    background: transparent;
+    color: #eec400 !important;
+}
+.distributor-wrapper .btn:hover {
+    border: 1px solid #eec400;
+    background: transparent;
+    color: #eec400 !important;
+}
+.material-handling-table thead {
+    background: #ffcb2f;
+}
+.tyre-wrapper .row {
+    background: #6b6b6b1a;
+}
+.material-handling.-wrapper .row img {
+    margin: 77px 0 0 0;
+}
+.btn-abt-top-topc:hover {
+    border: 1px solid #eec400 !important;
+    background: transparent !important;
+    color: #eec400 !important;
+}
+#tyre a:hover {
+    border: 1px solid #eec400;
+    background: transparent;
+    color: #eec400 !important;
+}
+.contactform-btn .btn:hover {
+    border: 1px solid #eec400;
+    background: transparent;
+    color: #eec400 !important;
+}
+.location-place ul li a:hover {
+    color: #fff;
+}
+
+.location-place ul li:hover {
+    color: #fff;
+}
+.material-handling table {
+    width: 100%;
+}
+.material-handling-table tbody tr td {
+    font-weight: 600;
+    border-bottom: 1px solid #000;
+}
+.about-our-company {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.abt-top-topc h1 {
+    margin: 0 0 28px 0;
+}
+.about-do {
+    color: #eec400;
+    font-weight: 800;
+    font-size: 28px;
+}
+.abt-maintop-topc .btn {
+    background: #eec400;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 14px 0;
+}
+.tel-no {
+    text-decoration: none;
+}
+.abt-top-topcmain .row {
+    margin: 21px 0 0 0;
+}
+.abt-top-topc .row {
+    margin: 0 0px 14px 0;
+}
+.abt-top-topc h4 {
+    color: #fff;
+}
+.abt-maintop-topc p {
+    color: #fff;
+    font-size: 21px;
+    padding: 0 5px 0 0;
+}
+.abt-maintop-topc .abt-c {
+    font-size: 64px;
+    color: #fff;
+    font-weight: 700;
+}
+.material-handling-table tbody tr {
+    height: 45px;
+}
+.sl-info a {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.sl-info a i {
+    margin: 0 0 0 13px;
+}
+.sl-info .btn {
+    padding: 0;
+}
+section#project {
+    background-image: url('assets/images/projectbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.float-left {
+    float: left;
+}
+.project-wrapper p span {
+    margin: 0 0 0 17px;
+    color: #fff;
+    font-weight: 700;
+}
+.sliderbox-client {
+    margin: 0 auto;
+}
+.sliderbox-client ul li {
+    display: inline-block;
+}
+.client-info-sl .cl-name {
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #626262;
+}
+.banner-content .other-content p {
+    font-size: 25px;
+}
+.client-info-sl .cl-position {
+    text-transform: uppercase;
+}
+.sliderbox-client .star-sign {
+    margin: 0 28px;
+}
+.sliderbox-client p {
+    padding: 0 32px;
+}
+.sliderbox-client i {
+    color: #eec400;
+    margin: 0 3px;
+}
+.client-slider {
+    box-shadow: 4px 6px 13px #dbd0d0;
+    padding: 38px 0;
+}
+.our-newsletter .newsletter-title {
+    text-transform: uppercase;
+}
+.our-newsletter .newsletter-title span {
+    color: #eec400;
+}
+.our-newsletter .sub-btn {
+    text-transform: uppercase;
+    padding: 6px 25px;
+    color: #404040;
+    font-weight: 600;
+}
+.contact-section .form-wrapper {
+    background: #fff;
+    top: -340px;
+    width: 67%;
+    z-index: 999;
+    box-shadow: 5px 4px 6px #cbc3c3;
+    height: 486px;
+    padding: 23px 0;
+}
+.contact-section .mid-box .contactform-btn {
+    margin: 23px 0 0 0;
+}
+.contact-section .mid-box .text-message {
+    margin: 25px 0 0 0;
+}
+.contact-section .contact-location {
+    margin: 144px 0 0 0;
+}
+.contact-location ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.contact-location ul li {
+    display: inline-block;
+}
+.contact-location ul .icon-aside i {
+    border: 1px dotted;
+    border-color: #ffc107;
+    padding: 13px;
+    font-size: 24px;
+}
+.contact-location .icon-aside {
+    left: -67px;
+    top: 14px;
+}
+.address-contact-bottom h2 {
+    text-transform: uppercase;
+    font-size: 23px;
+    margin: 10px 0 6px 0;
+    font-weight: 700;
+    color: #424242;
+}
+.site-footer {
+    background: #424242;
+    color: #fff;
+    padding: 60px 0;
+}
+.site-footer .foot-title {
+    text-transform: uppercase;
+    font-size: 32px;
+    margin: 0 0 25px 0;
+}
+.f-service ul {
+    margin: 0;
+    list-style: none;
+}
+.f-service ul li i {
+    margin: 0 10px 0 0px;
+}
+.f-contact-no {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.f-contact-no li {
+    display: inline-block;
+}
+.f-contact-no li a {
+    color: #fff;
+    text-decoration: none;
+}
+.social-icons-footer {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.social-icons-footer li {
+    display: inline-block;
+    margin: 16px 0 0 0;
+}
+.social-icons-footer li a {
+    color: #787373;
+    margin: 0px 8px;
+}
+.social-icons-footer li a i {
+    font-size: 20px;
+}
+.office-info ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.office-info ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.f-logo {
+    height: 63px;
+    margin: 10px 0 20px 0px;
+}
+.site-footer .office-foot-title {
+    text-transform: uppercase;
+    color: #ffc107;
+    font-size: 24px;
+    margin: 15px 0 9px 0;
+}
+.title-wrapper-section {
+    /*padding: 0 112px;*/
+    margin: 39px 0;
+}
+.location-place {
+    margin: 88px 0 0 0;
+}
+.icon-big {
+    font-size: 53px;
+    margin: 0 0 12px 0px;
+}
+.contact-section-page {
+    padding: 10px 19px;
+}
+.navbar-toggler-icon {
+    background-image: none !important;
+}
+.navbar-toggler-icon i {
+    color: #eec400 ;
+    padding: 5px 0 0 0;
+}
+.graph-image img {
+    margin: 6em 0 0 0;
+}
+#masthead ul .nav-item .active {
+    color: #eec400 !important;
+    font-weight: 700;
+}
+#masthead ul .nav-item .nav-link:hover {
+    text-decoration: underline;
+}
+.about-company-construction p {
+    border-bottom: 8px solid #eec400;
+    padding: 0 0 30px 0;
+}
+.tyre-main-info {
+    border-bottom: 4px solid #f3c107;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background: #000000b3;
+    color: #fff;
+    padding: 1em 6px;
+    text-align: center;
+    border-radius: 6px;
+    display: none;
+}
+.tyre-wrapper-main {
+    border-bottom: 8px solid #ffb72d;
+    padding: 44px 0;
+    margin: 0 0 2em 0;
+}
+.a-tyres:hover .tyre-main-info{
+    display: block;
+    cursor: pointer;
+}
+.tyre-main-info h2 {
+    margin-top: 0;
+}
+.sl-info-ty h2 {
+    font-weight: 300;
+}
+.construction-equipment .title-section {
+    margin-bottom: 0em;
+}
+/*.construction-equipment .tyre-wrapper .row {
+    background: #6b6b6b1a;
+    padding: 15px 10px;
+    border-radius: 4px;
+    margin-bottom: 2em;
+}*/
+/*RESPONSIVE*/
+@media only screen and (max-width: 1672px) {
+.banner-content {
+    top: 34em;
+    left: 11em;
+    z-index: 999 !important;
+}
+.contact-section .form-wrapper {
+    width: 78%;
+}
+}
+
+@media only screen and (max-width: 1585px) {
+ .banner-content {
+    top: 34em;
+    left: 7em;
+    z-index: 999 !important;
+}
+}
+@media only screen and (max-width: 1490px) {
+ .banner-content {
+    top: 31em;
+    left: 5em;
+    z-index: 999 !important;
+}
+}
+@media only screen and (max-width: 1400px) {
+  .banner-content {
+    top: 25em;
+    left: 6em;
+    z-index: 999 !important;
+}
+}
+@media only screen and (max-width: 1242px) {
+  .banner-content {
+    top: 21em;
+    left: 3em;
+    z-index: 999 !important;
+}
+}
+@media only screen and (max-width: 1202px) {
+  .btn-expert {
+    padding: 18px 26px;
+}
+}
+@media only screen and (max-width: 1076px) {
+  .banner-content {
+    top: 17em;
+    left: 6em;
+    z-index: 999 !important;
+}
+}
+
+@media only screen and (max-width: 995px) {
+  .contact-location .icon-aside {
+    display: none;
+}
+.banner-content .other-content p {
+    display: none;
+}
+}
+
+@media only screen and (max-width: 770px) {
+  .top-label input {
+    margin: 10px 0;
+}
+.contact-section h1 {
+    margin: 0px;
+}
+.site-footer .foot-title {
+    text-transform: uppercase;
+    font-size: 24px;
+    margin: 0 0 5px 0;
+}
+.f-service ul {
+    margin: 0;
+    padding: 0;
+}
+#footer .row .col-md-4 {
+    margin-bottom: 2em;
+}
+#tyre img {
+    width: 100%;
+}
+.banner-content {
+    display: none;
+}
+.site-footer .office-foot-title {
+    margin: 5px 0 9px 0;
+}
+.contact-section .form-wrapper {
+    padding: 4px 13px;
+}
+.title-wrapper-section {
+    padding: 0;
+}
+.title-section {
+    padding: 0 0px;
+}
+.title-section p {
+    display: none;
+}
+.title-section h1 {
+    font-size: 25px;
+}
+p {
+    font-size: 14px;
+}
+.sl-info h2 {
+    color: #404040;
+    font-weight: 100;
+    margin: 0;
+    font-size: 18px;
+}
+h2 {
+    font-size: 18px;
+}
+.btn {
+    font-size: 12px !IMPORTANT;
+}
+}
+
+
+@media only screen and (max-width: 550px) {
+  .contact-section .form-wrapper {
+    width: 95%;
+}
+}
